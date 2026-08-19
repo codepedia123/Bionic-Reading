@@ -1,3 +1,5 @@
+![Uploading Screenshot 2026-08-19 at 9.27.55 AM.png…]()
+
 # Bionic Reading for AI coding agents
 
 **Thi**s **ope**n-sou**rce** **rep**ository **ena**bles **den**se, **hig**h-con**trast** **Bio**nic **Rea**ding **in** **Cod**ex **and** **Cla**ude **Cod**e **cha**t **resp**onses. **It** **gui**des **the** **rea**der's **eye** **usi**ng **bol**d **fix**ation **pre**fixes **whi**le **kee**ping **the** **rem**aining **lett**ers **lig**hter.
