@@ -1,4 +1,5 @@
-![Uploading Screenshot 2026-08-19 at 9.27.55 AM.png…]()
+<img width="778" height="201" alt="Screenshot 2026-08-19 at 9 28 32 AM" src="https://github.com/user-attachments/assets/d96c5a5e-b822-4bf4-b235-0591101e9ad8" />
+
 
 # Bionic Reading for AI coding agents
 
