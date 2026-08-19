@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Bionic Reading",
+  "description": "Apply Bionic Reading fixation points across websites in Chrome.",
+  "version": "1.0.0",
+  "permissions": ["storage"],
+  "host_permissions": ["<all_urls>"],
+  "action": { "default_title": "Toggle Bionic Reading" },
+  "background": { "service_worker": "background.js" },
+  "commands": {
+    "toggle-bionic-reading": {
+      "suggested_key": { "default": "Alt+B", "mac": "Alt+B" },
+      "description": "Toggle Bionic Reading on the current page"
+    }
+  },
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["settings.js", "bionic.js"],
+    "run_at": "document_idle",
+    "all_frames": true,
+    "match_about_blank": true
+  }]
+}
