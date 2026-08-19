@@ -2,7 +2,7 @@
 
 ## Recommended built-in setup
 
-**In** **Cod**ex, **op**en **Set**tings → **Appe**arance, **set** **the** **UI** **fon**t **siz**e **to** `16 px`, **and** **set** **the** **UI** **fon**t **to**:
+**In** **Cod**ex, ( also applicable for Claude Code ) **op**en **Set**tings → **Appe**arance, **set** **the** **UI** **fon**t **siz**e **to** `16 px`, **and** **set** **the** **UI** **fon**t **to**:
 
 ```text
 Tahoma
@@ -10,7 +10,7 @@ Tahoma
 
 ## Maximum-contrast custom font
 
-`Bionic Sans` **use**s **Source Sans 3** `375` **out**lines **for** **reg**ular **tex**t **and** `900` **out**lines **for** **bol**d **tex**t. **The** **fac**es **are** **map**ped **as** **stan**dard **Reg**ular **and** **Bol**d **so** **cha**t **Mar**kdown **sel**ects **the** **ext**reme **wei**ghts **auto**matically.
+`Bionic Sans` **use**s **Source Sans 3** `375` **out**lines **for** **reg**ular **tex**t **and** `900` **out**lines **for** **bol**d **tex**t. **The** **fac**es **are** **map**ped **as** **stan**dard **Reg**ular **and** **Bol**d **so** **cha**t **Mar**kdown **sel**ects **the** **ext**reme **wei**ghts **auto**matically. ( applicable for both Codex and Claude Code )
 
 ### macOS installation
 
