@@ -9,6 +9,7 @@
 
 - `AGENTS.md` — **Bio**nic **Rea**ding **inst**ructions **for** **Cod**ex.
 - `CLAUDE.md` — **the** **sam**e **inst**ructions **for** **Cla**ude **Cod**e.
+- `INSTALL_PROMPT.md` — **a** **cop**y-pas**te** **pro**mpt **for** **an** **age**nt **to** **inst**all **the** **ful**l **set**up **end** **to** **end**.
 - `FONT_SETUP.md` — **rec**ommended **Cod**ex **set**tings **and** **cus**tom **fon**t **inst**allation **for** **macOS** **and** **Win**dows.
 - `chrome-extension/` — **a** **Man**ifest V3 **Chr**ome **exten**sion **tha**t **app**lies **Bio**nic **Rea**ding **to** **nor**mal **web** **pag**es.
 - `CREDITS.md` — **ori**ginal **exten**sion **attri**bution **and** **a** **bre**akdown **of** **the** **upd**ated **cod**e.
@@ -17,6 +18,8 @@
 ## Use in an existing project
 
 **Cop**y `AGENTS.md` **to** **the** **roo**t **of** **a** **pro**ject **use**d **wi**th **Cod**ex. **Cop**y `CLAUDE.md` **to** **the** **roo**t **of** **a** **pro**ject **use**d **wi**th **Cla**ude **Cod**e. **Whe**n **usi**ng **bot**h **age**nts, **kee**p **bot**h **fil**es.
+
+**For** **an** **end**-**to**-**end** **sys**tem **inst**allation, **cop**y **the** **pro**mpt **fro**m [INSTALL_PROMPT.md](INSTALL_PROMPT.md) **and** **pas**te **it** **int**o **you**r **loc**al **cod**ing **age**nt.
 
 ## Improve the visual contrast
 
